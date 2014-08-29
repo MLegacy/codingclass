@@ -21,3 +21,18 @@
 	color: #800000;
     text-decoration: underline;
 }
+.index-title {
+    color: #000047;
+}
+.video-title {
+	color: #800000;
+    text-decoration: underline;
+}
+.class2 ul li a{
+	color: #FF0066;
+}
+.class2 ul li a:hover{
+	color: #009933;
+    text-decoration: none;
+
+}
