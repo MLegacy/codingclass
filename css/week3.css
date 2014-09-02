@@ -1,0 +1,20 @@
+.week-3 {
+    color: #006600;
+    text-decoration: underline;
+}
+.marcos {
+	color: #006600;
+    text-decoration: underline;
+}
+.paragraph {
+    color: #000066;
+    padding: 20px;
+}
+.anchor ul li a {
+    color: #800000;
+}
+.anchor ul li a:hover {
+    color: #FFCC00;
+    text-decoration: none;
+}
+    
