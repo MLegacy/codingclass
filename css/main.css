@@ -7,7 +7,7 @@
 	list-style:none;
 }
 .page-navigation ul li {
-	padding: 0 25px;
+	padding: 200 25px;
     float : left;
     line-height: 30px;
 }
@@ -34,7 +34,6 @@
 .class2 ul li a:hover{
 	color: #009933;
     text-decoration: none;
-
 }
 .container {
     width: 740px;
@@ -46,13 +45,14 @@
     background: royalblue;
 }
 .main-content{
-    padding: 20px;
+    padding: 10px;
     background: lightgrey;
 }
 .main-footer{
     height: 100px;
     color: #FFF;
-    background: #222
+    background: #222;
+}
 .base{
     padding-top: 50px;
     color: #FFF;

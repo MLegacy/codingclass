@@ -1,0 +1,28 @@
+.container {
+    width: 740px;
+    margin: auto;
+}    
+.main-header {
+    height: 150px;
+    color: #fff;
+    background: royalblue;
+}
+.main-content{
+    padding: 10px;
+    background: lightgrey;
+}
+.main-footer{
+    height: 90px;
+    color: #FFF;
+    background: #222;
+}
+.base{
+    padding-top: 50px;
+    color: #FFF;
+    text-align: center;
+    font-size: 50px;
+}
+.page-navigation ul li {
+    padding: 0 25px;
+    float : down;
+    line-height: 30px;
