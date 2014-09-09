@@ -2,31 +2,35 @@
     width: 740px;
     margin: auto;
 }    
-.main-header {
+.header {
     height: 150px;
     color: #fff;
     background: royalblue;
 }
-.main-content{
+.content {
     padding: 10px;
     background: lightgrey;
 }
-.main-footer{
+.footer {
     height: 90px;
     color: #FFF;
     background: #222;
 }
-.base{
+.base {
     padding-top: 50px;
     color: #FFF;
     text-align: center;
     font-size: 50px;
 }
-.page-navigation ul li {
-    padding: 0 100px;
-    position: fixed;
-    top: 200px;
-    left: 60px;
-    line-height: 20px;
+.menu {
+    height:500px;
+    width:200px;
+    float:left;
+    padding-top: 50px;
+    padding-left: 50px;
+
+}
+.page-navigation {
+    color: #993300; 
 }
   
