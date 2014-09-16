@@ -1,0 +1,19 @@
+.container{
+
+}
+.main-header{
+	height: 150px;
+    color: #fff;
+    background: royalblue;
+}
+.main-footer {
+	height: 90px;
+    color: #FFF;
+    background: #222;
+}
+.base {
+	padding-top: 50px;
+    color: #FFF;
+    text-align: center;
+    font-size: 40px;
+}
