@@ -2,7 +2,7 @@
 
 }
 .main-header{
-	height: 150px;
+	height: 180px;
     color: #fff;
     background: royalblue;
 }
@@ -12,8 +12,35 @@
     background: #222;
 }
 .base {
-	padding-top: 50px;
+	padding-top: 10px;
+	padding-left: 100px; 
+	padding-bottom: 70px;
     color: #FFF;
-    text-align: center;
     font-size: 40px;
+}
+.page-navigation ul li {
+    padding: 200 25px;
+    float : right;
+    line-height: 30px;
+}
+.page-navigation ul li a{
+	color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px
+}
+.page-navigation ul li a:hover{
+	color: #800000;
+    text-decoration: underline;
+}
+.page-navigation ul {
+  width: 900px; 
+  margin: 0 auto;
+}
+
+.page-navigation li {
+  line-height: 87px;
+  float: right;
+  text-align: center;
+  width: 150px;
 }
