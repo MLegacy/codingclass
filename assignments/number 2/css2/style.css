@@ -27,20 +27,40 @@
 	color: #FFF;
     text-decoration: none;
     font-weight: bold;
-    font-size: 20px
+    font-size: 14px;
+    padding: 5px 10px;
 }
 .page-navigation ul li a:hover{
 	color: #800000;
     text-decoration: underline;
 }
 .page-navigation ul {
-  width: 900px; 
-  margin: 0 auto;
+  list-style: none;
 }
 
 .page-navigation li {
-  line-height: 87px;
+  line-height: 100px;
   float: right;
   text-align: center;
-  width: 150px;
+  
+}
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 15px;
+  position: relative;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 10px;
+  float: left;
+}
+
+.box-green{
+  background-color: green;
+}
+
+.box-blue{
+  background-color: blue;
 }
